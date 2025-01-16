@@ -30,7 +30,7 @@ Les données utilisées dans ce projet proviennent de :
 
 ## Technologies utilisées
 
-- **Langage de programmation** : Python
+- **Langage de programmation** : Python, Html
 - **Bibliothèques Python principales** : pandas, requests
 
 ## Installation
