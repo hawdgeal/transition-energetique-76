@@ -28,9 +28,26 @@ Les données utilisées dans ce projet proviennent de :
 - [Consommation annuelle d'électricité et de gaz par département](https://www.data.gouv.fr/)
 - [DPE logements existants (API ADEME)](https://data.ademe.fr/)
 
+## Structure du projet
+
+├── docs/
+│   ├── index.html              # Page web principale
+│   └── autres fichiers HTML
+├── donnees/
+│   ├── consommation-annuelle-d-electricite-et-gaz-par-departement.csv
+│   ├── dpe_data.csv            # Données extraites de l'API DPE
+│   └── autres fichiers de données
+├── exploration/
+│   ├── [analyse_dpe.ipynb](https://github.com/hawdgeal/transition-energetique-76/blob/main/exploration/analyse_dpe.ipynb)       # Analyse des diagnostics de performance énergétique (DPE)
+│   ├── [analyse_finale.ipynb](https://github.com/hawdgeal/transition-energetique-76/blob/main/exploration/analyse_finale.ipynb)    # Synthèse des analyses et visualisations finales
+│   ├── [conso_nrj.ipynb](https://github.com/hawdgeal/transition-energetique-76/blob/main/exploration/conso_nrj.ipynb)         # Étude de la consommation énergétique par département
+│   ├── [requete_api.ipynb](https://github.com/username/transition-energetique-76/blob/main/exploration/requete_api.ipynb)       # Scripts pour extraire les données depuis l'API
+├── .gitignore                  # Fichiers à exclure du dépôt
+└── README.md                   # Description du projet
+
 ## Technologies utilisées
 
-- **Langage de programmation** : Python, Html
+- **Langage de programmation** : Python, HTML
 - **Bibliothèques Python principales** : pandas, requests
 
 ## Installation
