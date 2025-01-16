@@ -1,8 +1,6 @@
-# transition-energetique-76
+# Transition énergétique en Seine-Maritime
 
 ![Project Logo](donnees/DPE76.png)
-
-# Tableau de bord interactif - Transition énergétique en Seine-Maritime
 
 Bienvenue dans le projet visant à créer un tableau de bord interactif pour analyser les données énergétiques et les diagnostics de performance énergétique (DPE) en Seine-Maritime.
 
