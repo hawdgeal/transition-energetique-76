@@ -4,7 +4,7 @@
   <img src="donnees/DPE76.png" alt="Project Logo">
 </div>
 
-Bienvenue dans le projet visant à créer un tableau de bord interactif pour analyser les données énergétiques et les diagnostics de performance énergétique (DPE) en Seine-Maritime.
+Bienvenue dans le projet visant à créer une carte interactive pour analyser les données énergétiques et les diagnostics de performance énergétique (DPE) en Seine-Maritime.
 
 ## Objectif du projet
 
