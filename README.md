@@ -77,6 +77,7 @@ Pour utiliser ou contribuer à ce projet :
 <div align="center">
   <img src="donnees/ezgif-3-59e625e3b5.gif" alt="Aperçu du tableau de bord">
 </div>
+
 ## Contribution
 
 Les contributions sont les bienvenues ! Si vous souhaitez contribuer :
