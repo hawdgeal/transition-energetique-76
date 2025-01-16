@@ -30,20 +30,24 @@ Les données utilisées dans ce projet proviennent de :
 
 ## Structure du projet
 
-├── docs/
-│   ├── index.html              # Page web principale
-│   └── autres fichiers HTML
-├── donnees/
-│   ├── consommation-annuelle-d-electricite-et-gaz-par-departement.csv
-│   ├── dpe_data.csv            # Données extraites de l'API DPE
-│   └── autres fichiers de données
-├── exploration/
-│   ├── [analyse_dpe.ipynb](https://github.com/hawdgeal/transition-energetique-76/blob/main/exploration/analyse_dpe.ipynb)       # Analyse des diagnostics de performance énergétique (DPE)
-│   ├── [analyse_finale.ipynb](https://github.com/hawdgeal/transition-energetique-76/blob/main/exploration/analyse_finale.ipynb)    # Synthèse des analyses et visualisations finales
-│   ├── [conso_nrj.ipynb](https://github.com/hawdgeal/transition-energetique-76/blob/main/exploration/conso_nrj.ipynb)         # Étude de la consommation énergétique par département
-│   ├── [requete_api.ipynb](https://github.com/username/transition-energetique-76/blob/main/exploration/requete_api.ipynb)       # Scripts pour extraire les données depuis l'API
-├── .gitignore                  # Fichiers à exclure du dépôt
-└── README.md                   # Description du projet
+## Structure du projet
+
+<div style="font-family: monospace;">
+├── <b>docs/</b><br>
+│   ├── <code>index.html</code> : Page web principale<br>
+│   └── autres fichiers HTML<br>
+├── <b>donnees/</b><br>
+│   ├── <code>consommation-annuelle-d-electricite-et-gaz-par-departement.csv</code><br>
+│   ├── <code>dpe_data.csv</code> : Données extraites de l'API DPE<br>
+│   └── autres fichiers de données<br>
+├── <b>exploration/</b><br>
+│   ├── <a href="https://github.com/hawdgeal/transition-energetique-76/blob/main/exploration/analyse_dpe.ipynb">analyse_dpe.ipynb</a> : Analyse des diagnostics de performance énergétique (DPE)<br>
+│   ├── <a href="https://github.com/hawdgeal/transition-energetique-76/blob/main/exploration/analyse_finale.ipynb">analyse_finale.ipynb</a> : Synthèse des analyses et visualisations finales<br>
+│   ├── <a href="https://github.com/hawdgeal/transition-energetique-76/blob/main/exploration/conso_nrj.ipynb">conso_nrj.ipynb</a> : Étude de la consommation énergétique par département<br>
+│   ├── <a href="https://github.com/hawdgeal/transition-energetique-76/blob/main/exploration/requete_api.ipynb">requete_api.ipynb</a> : Scripts pour extraire les données depuis l'API<br>
+├── <code>.gitignore</code> : Fichiers à exclure du dépôt<br>
+└── <code>README.md</code> : Description du projet
+</div>
 
 ## Technologies utilisées
 
