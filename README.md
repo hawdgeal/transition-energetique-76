@@ -25,7 +25,7 @@ Ce projet a pour but de :
 
 Les données utilisées dans ce projet proviennent de :
 
-- [Consommation annuelle d'électricité et de gaz par département](https://www.data.gouv.fr/)
+- [Consommation annuelle d'électricité et de gaz par département (DATA.GOUV)](https://www.data.gouv.fr/)
 - [DPE logements existants (API ADEME)](https://data.ademe.fr/)
 
 ## Structure du projet
