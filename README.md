@@ -30,8 +30,6 @@ Les données utilisées dans ce projet proviennent de :
 
 ## Structure du projet
 
-## Structure du projet
-
 <div style="font-family: monospace;">
 ├── <b>docs/</b><br>
 │   ├── <code>index.html</code> : Page web principale<br>
@@ -74,7 +72,9 @@ Pour utiliser ou contribuer à ce projet :
 
 1. Exécutez le script principal pour extraire les données via l'API et les traiter.
 2. Générez des visualisations à partir des données nettoyées.
-3. Explorez les visualisations interactives dans le tableau de bord.
+3. Explorez les visualisations interactives sur la carte générée.
+
+![Aperçu du tableau de bord](donnees/ezgif-3-59e625e3b5.gif)
 
 ## Contribution
 
@@ -101,4 +101,4 @@ Ce projet est sous licence [MIT](LICENSE).
 
 ## Contact
 
-Pour toute question ou suggestion, veuillez contactez Rodrigo ou Cynthia
+Pour toute question ou suggestion, veuillez contactez Rodrigo (hawdgeal) ou Cynthia (Cynthia-OK)
