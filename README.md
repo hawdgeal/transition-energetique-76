@@ -1,6 +1,8 @@
 # Transition énergétique en Seine-Maritime
 
-![Project Logo](donnees/DPE76.png)
+<div align="center">
+  <img src="donnees/DPE76.png" alt="Project Logo">
+</div>
 
 Bienvenue dans le projet visant à créer un tableau de bord interactif pour analyser les données énergétiques et les diagnostics de performance énergétique (DPE) en Seine-Maritime.
 
@@ -72,8 +74,9 @@ Pour utiliser ou contribuer à ce projet :
 2. Générez des visualisations à partir des données nettoyées.
 3. Explorez les visualisations interactives sur la carte générée.
 
-![Aperçu du tableau de bord](donnees/ezgif-3-59e625e3b5.gif)
-
+<div align="center">
+  <img src="donnees/ezgif-3-59e625e3b5.gif" alt="Aperçu du tableau de bord">
+</div>
 ## Contribution
 
 Les contributions sont les bienvenues ! Si vous souhaitez contribuer :
